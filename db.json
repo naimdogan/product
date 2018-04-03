@@ -1,11 +1,11 @@
 {
   "product": [
     {
-      "product-name": "People By Fabrika - Desenli Bluz",
+      "productName": "People By Fabrika - Desenli Bluz",
       "id": 1,
-      "image-url": "https://statics.boyner.com.tr/mnresize/325/451/productimages/520565435_360_01.jpg",
-      "old-price": 439.20,
-      "sale-price": 307.20,
+      "imageUrl": "https://statics.boyner.com.tr/mnresize/325/451/productimages/520565435_360_01.jpg",
+      "oldPrice": 439.20,
+      "salePrice": 307.20,
       "discount": 30,
       "quantity": 2,
       "variants": [
@@ -16,11 +16,11 @@
       ]
     },
     {
-        "product-name": "Vero Moda Desenli Kruvaze Kırmızı Elbise",
+        "productName": "Vero Moda Desenli Kruvaze Kırmızı Elbise",
         "id": 2,
-        "image-url": "https://statics.boyner.com.tr/mnresize/325/451/productimages/520584427_51_04.jpg",
-        "old-price": 439.20,
-        "sale-price": 307.20,
+        "imageUrl": "https://statics.boyner.com.tr/mnresize/325/451/productimages/520584427_51_04.jpg",
+        "oldPrice": 439.20,
+        "salePrice": 307.20,
         "discount": 30,
         "quantity": 2,
         "variants": [
@@ -31,11 +31,11 @@
         ]
       },
       {
-        "product-name": "Only Yaprak Desenli Yeşil Elbise",
+        "productName": "Only Yaprak Desenli Yeşil Elbise",
         "id": 3,
-        "image-url": "https://statics.boyner.com.tr/mnresize/325/451/productimages/520585383_9_13.jpg",
-        "old-price": 129.99,
-        "sale-price": 99.99,
+        "imageUrl": "https://statics.boyner.com.tr/mnresize/325/451/productimages/520585383_9_13.jpg",
+        "oldPrice": 129.99,
+        "salePrice": 99.99,
         "discount": 5,
         "quantity": 1,
         "variants": [
@@ -46,11 +46,11 @@
         ]
       },
       {
-        "product-name": "Beymen Club Çiçek Desenli Bej Elbise",
+        "productName": "Beymen Club Çiçek Desenli Bej Elbise",
         "id": 4,
-        "image-url": "https://statics.boyner.com.tr/mnresize/325/451/productimages/520616847_5_13.jpg",
-        "old-price": 599.00,
-        "sale-price": 579.00,
+        "imageUrl": "https://statics.boyner.com.tr/mnresize/325/451/productimages/520616847_5_13.jpg",
+        "oldPrice": 599.00,
+        "salePrice": 579.00,
         "discount": 3,
         "quantity": 1,
         "variants": [
