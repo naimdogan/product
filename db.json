@@ -9,12 +9,11 @@
             "discount": 30,
             "quantity": 2,
           "stock": [
-                {
-                    value: "1",
-                    value: "2",
-                    value: "3",
-                    value: "4"
-                }
+                { value: "1"},
+              { value: "2"},
+              { value: "3"},
+              { value: "4"},
+              { value: "5"}
             ],
             "variants": [
                 {
@@ -32,12 +31,11 @@
             "discount": 30,
             "quantity": 2,
           "stock": [
-                {
-                    value: "1",
-                    value: "2",
-                    value: "3",
-                    value: "4"
-                }
+               { value: "1"},
+              { value: "2"},
+              { value: "3"},
+              { value: "4"},
+              { value: "5"}
             ],
             "variants": [
                 {
@@ -55,12 +53,11 @@
             "discount": 5,
             "quantity": 2,
             "stock": [
-                {
-                    value: "1",
-                    value: "2",
-                    value: "3",
-                    value: "4"
-                }
+               { value: "1"},
+              { value: "2"},
+              { value: "3"},
+              { value: "4"},
+              { value: "5"}
             ],
             "variants": [
                 {
@@ -78,12 +75,11 @@
             "discount": 3,
             "quantity": 1,
           "stock": [
-                {
-                    value: "1",
-                    value: "2",
-                    value: "3",
-                    value: "4"
-                }
+                { value: "1"},
+              { value: "2"},
+              { value: "3"},
+              { value: "4"},
+              { value: "5"}
             ],
             "variants": [
                 {
