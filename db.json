@@ -1,64 +1,96 @@
 {
-  "product": [
-    {
-      "productName": "People By Fabrika - Desenli Bluz",
-      "id": 1,
-      "imageUrl": "https://statics.boyner.com.tr/mnresize/325/451/productimages/520565435_360_01.jpg",
-      "oldPrice": 439.20,
-      "salePrice": 307.20,
-      "discount": 30,
-      "quantity": 2,
-      "variants": [
+    "product": [
         {
-          "size": "Large",
-          "color": "Lacivert Desenli"
+            "productName": "People By Fabrika - Desenli Bluz",
+            "id": 1,
+            "imageUrl": "https://statics.boyner.com.tr/mnresize/325/451/productimages/520565435_360_01.jpg",
+            "oldPrice": 439.20,
+            "salePrice": 307.20,
+            "discount": 30,
+            "quantity": 2,
+          "stock": [
+                {
+                    "1": "1",
+                    "2": "2",
+                    "3": "3",
+                    "4": "4"
+                }
+            ],
+            "variants": [
+                {
+                    "size": "Large",
+                    "color": "Lacivert Desenli"
+                }
+            ]
+        },
+        {
+            "productName": "Vero Moda Desenli Kruvaze Kırmızı Elbise",
+            "id": 2,
+            "imageUrl": "https://statics.boyner.com.tr/mnresize/325/451/productimages/520584427_51_04.jpg",
+            "oldPrice": 439.20,
+            "salePrice": 307.20,
+            "discount": 30,
+            "quantity": 2,
+          "stock": [
+                {
+                    "1": "1",
+                    "2": "2",
+                    "3": "3",
+                    "4": "4"
+                }
+            ],
+            "variants": [
+                {
+                    "size": "Small",
+                    "color": "Lila Desenli"
+                }
+            ]
+        },
+        {
+            "productName": "Only Yaprak Desenli Yeşil Elbise",
+            "id": 3,
+            "imageUrl": "https://statics.boyner.com.tr/mnresize/325/451/productimages/520585383_9_13.jpg",
+            "oldPrice": 129.99,
+            "salePrice": 99.99,
+            "discount": 5,
+            "quantity": 2,
+            "stock": [
+                {
+                    "1": "1",
+                    "2": "2",
+                    "3": "3",
+                    "4": "4"
+                }
+            ],
+            "variants": [
+                {
+                    "size": "Medium",
+                    "color": "Yeşil"
+                }
+            ]
+        },
+        {
+            "productName": "Beymen Club Çiçek Desenli Bej Elbise",
+            "id": 4,
+            "imageUrl": "https://statics.boyner.com.tr/mnresize/325/451/productimages/520616847_5_13.jpg",
+            "oldPrice": 599.00,
+            "salePrice": 579.00,
+            "discount": 3,
+            "quantity": 1,
+          "stock": [
+                {
+                    "1": "1",
+                    "2": "2",
+                    "3": "3",
+                    "4": "4"
+                }
+            ],
+            "variants": [
+                {
+                    "size": "Large",
+                    "color": "Mavi"
+                }
+            ]
         }
-      ]
-    },
-    {
-        "productName": "Vero Moda Desenli Kruvaze Kırmızı Elbise",
-        "id": 2,
-        "imageUrl": "https://statics.boyner.com.tr/mnresize/325/451/productimages/520584427_51_04.jpg",
-        "oldPrice": 439.20,
-        "salePrice": 307.20,
-        "discount": 30,
-        "quantity": 2,
-        "variants": [
-          {
-            "size": "Small",
-            "color": "Lila Desenli"
-          }
-        ]
-      },
-      {
-        "productName": "Only Yaprak Desenli Yeşil Elbise",
-        "id": 3,
-        "imageUrl": "https://statics.boyner.com.tr/mnresize/325/451/productimages/520585383_9_13.jpg",
-        "oldPrice": 129.99,
-        "salePrice": 99.99,
-        "discount": 5,
-        "quantity": 1,
-        "variants": [
-          {
-            "size": "Medium",
-            "color": "Yeşil"
-          }
-        ]
-      },
-      {
-        "productName": "Beymen Club Çiçek Desenli Bej Elbise",
-        "id": 4,
-        "imageUrl": "https://statics.boyner.com.tr/mnresize/325/451/productimages/520616847_5_13.jpg",
-        "oldPrice": 599.00,
-        "salePrice": 579.00,
-        "discount": 3,
-        "quantity": 1,
-        "variants": [
-          {
-            "size": "Large",
-            "color": "Mavi"
-          }
-        ]
-      }
-  ]
+    ]
 }
